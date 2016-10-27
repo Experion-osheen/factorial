@@ -10,4 +10,5 @@ class fact
 		f=f*i;
 	system.out.print (f);
 	}
+
 }
